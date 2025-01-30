@@ -1,0 +1,6 @@
+@layer base {
+  * {
+    @apply transition-colors duration-100;
+  }
+}
+
